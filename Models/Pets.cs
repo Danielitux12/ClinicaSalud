@@ -9,8 +9,7 @@ namespace ClimicaSalud.Models
     {
         /// <summary>
         /// Unique identifier assigned to the pet.
-        /// Generated automatically as a GUID to guarantee uniqueness
-        /// without relying on a manual counter.
+        /// Generated automatically as a GUID to guarantee uniqueness.
         /// </summary>
         public Guid Id { get; set; }
 

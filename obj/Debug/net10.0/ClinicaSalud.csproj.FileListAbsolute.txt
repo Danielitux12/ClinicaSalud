@@ -12,3 +12,4 @@
 /home/cohorte5/danielillo/week1/ClinicaSalud/obj/Debug/net10.0/ClinicaSalud.pdb
 /home/cohorte5/danielillo/week1/ClinicaSalud/obj/Debug/net10.0/ClinicaSalud.genruntimeconfig.cache
 /home/cohorte5/danielillo/week1/ClinicaSalud/obj/Debug/net10.0/ref/ClinicaSalud.dll
+/home/cohorte5/danielillo/week1/ClinicaSalud/obj/Debug/net10.0/ClinicaSalud.sourcelink.json
