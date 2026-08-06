@@ -1,0 +1,14 @@
+/home/cohorte5/danielillo/week1/ClinicaSalud/bin/Debug/net10.0/ClinicaSalud
+/home/cohorte5/danielillo/week1/ClinicaSalud/bin/Debug/net10.0/ClinicaSalud.deps.json
+/home/cohorte5/danielillo/week1/ClinicaSalud/bin/Debug/net10.0/ClinicaSalud.runtimeconfig.json
+/home/cohorte5/danielillo/week1/ClinicaSalud/bin/Debug/net10.0/ClinicaSalud.dll
+/home/cohorte5/danielillo/week1/ClinicaSalud/bin/Debug/net10.0/ClinicaSalud.pdb
+/home/cohorte5/danielillo/week1/ClinicaSalud/obj/Debug/net10.0/ClinicaSalud.GeneratedMSBuildEditorConfig.editorconfig
+/home/cohorte5/danielillo/week1/ClinicaSalud/obj/Debug/net10.0/ClinicaSalud.AssemblyInfoInputs.cache
+/home/cohorte5/danielillo/week1/ClinicaSalud/obj/Debug/net10.0/ClinicaSalud.AssemblyInfo.cs
+/home/cohorte5/danielillo/week1/ClinicaSalud/obj/Debug/net10.0/ClinicaSalud.csproj.CoreCompileInputs.cache
+/home/cohorte5/danielillo/week1/ClinicaSalud/obj/Debug/net10.0/ClinicaSalud.dll
+/home/cohorte5/danielillo/week1/ClinicaSalud/obj/Debug/net10.0/refint/ClinicaSalud.dll
+/home/cohorte5/danielillo/week1/ClinicaSalud/obj/Debug/net10.0/ClinicaSalud.pdb
+/home/cohorte5/danielillo/week1/ClinicaSalud/obj/Debug/net10.0/ClinicaSalud.genruntimeconfig.cache
+/home/cohorte5/danielillo/week1/ClinicaSalud/obj/Debug/net10.0/ref/ClinicaSalud.dll
